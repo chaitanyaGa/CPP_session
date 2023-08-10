@@ -58,7 +58,10 @@ Abstraction allows us to use straightforward classes to express complex details.
 
 
 Further study:
+
 Design Patterns
+
 Open source contribution
-Compilation processs of languages.
+
+Compilation processs of languages.(https://www.learncomputerscienceonline.com/program-compilation/)
 
