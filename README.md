@@ -32,12 +32,14 @@ Taking the example above, we declared price as a private member because we donâ€
 
 Example:
 
-`int main(){
+```C++
+int main(){
    Fruit banana(1.25, "yellow");
    
    // error   
    std::cout << banana.color << std::endl;
-   }`
+   }
+```
 The object banana cannot directly access the class variable color in main() .
 
 The access modifiers help restrict the usage of certain class members. You may refer to [this complete guide](https://www.programiz.com/cpp-programming/access-modifiers) to learn more about access modifiers.
